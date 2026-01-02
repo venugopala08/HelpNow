@@ -15,7 +15,7 @@
 ## 🚀 Live Demo
 
 <blockquote>
-🌐 Experience HelpNow AI in action: <a href="https://helpnow-ai.vercel.app"><b>Live Demo</b></a>
+🌐 Experience HelpNow AI in action: <a href="https://helpnowai.vercel.app/"><b>Live Demo</b></a>
 </blockquote>
 
 Try the emergency guidance system with voice recognition and real-time AI responses!
